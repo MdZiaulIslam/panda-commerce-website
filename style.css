@@ -28,4 +28,18 @@ h1{
 .carousel-item{
     padding: 20px 40px;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.cat1{
+    background-image: linear-gradient(to right, #FF9C35 , #FFD019);
+}
+.cat2{
+    background-image: linear-gradient(to left, #FF589B , #FF136F);
+}
+.cat3{
+    background-image: linear-gradient(to left, #4289FF , #07F8C3);
+}
 
