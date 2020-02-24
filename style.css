@@ -64,3 +64,20 @@ h3{
     border: none;
     background-color: white;
 }
+#subscribe{
+    background-color: #FEEAE9;
+    height: 300px;
+    border-radius: 10px;
+}
+#subscribe h5{
+    letter-spacing: 3px;
+    font-weight: 700;
+}
+#subscribe input{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+footer{
+    text-align: center;
+    margin: 40px auto;
+}
