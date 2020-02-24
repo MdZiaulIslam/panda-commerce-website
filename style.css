@@ -4,6 +4,10 @@ body{
 .container{
     margin-bottom: 100px;
 }
+p{
+    font-size: 13px;
+    color: dimgray;
+}
 h1{
     font-size: 30px;
     font-weight: 600;
@@ -42,4 +46,21 @@ h1{
 .cat3{
     background-image: linear-gradient(to left, #4289FF , #07F8C3);
 }
+h2{
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: 17px;
+    font-weight: 600;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray
 
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
